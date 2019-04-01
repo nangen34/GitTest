@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 xxx.xxx
 xxxxxx
+=======
+google.com
+>>>>>>> change_site
+www.runoob.com
